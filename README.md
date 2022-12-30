@@ -1,4 +1,4 @@
-# TriviaMaze
+# triviaMaze
 **Goal:** Develop an interactive maze that prompts trivia questions which are stored in a local database.
 
 **Outcome:** Managed to successfully build a functioning program while managing team struggles.
