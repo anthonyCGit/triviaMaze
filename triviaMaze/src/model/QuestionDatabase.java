@@ -17,7 +17,7 @@ import org.sqlite.SQLiteDataSource;
  * 
  * @author professor
  * @author ajc77
- * @author teammate1
+ * @author bgoodman
  * 
  * Simple class to demonstrate SQLite connectivity
  * 1) create connection
